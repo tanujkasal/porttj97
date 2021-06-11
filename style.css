@@ -1,0 +1,46 @@
+div {
+  background-color: rgba(248, 210, 248, 0.4);
+}
+body {
+  margin: 0%;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  margin-top: 0%;
+  font-family: "Sacramento", cursive;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.red {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.blue {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.bottomcloud {
+  position: absolute;
+  left: 350px;
+  bottom: 400px;
+}
+.uppercloud {
+  position: absolute;
+  right: 400px;
+  top: 30px;
+}
+
+.top {
+  position: relative;
+  padding: 100px;
+}
+
+.profilepic {
+  border-radius: 50%;
+  width: 200px;
+}
